@@ -1,2 +1,2 @@
 # Projets Java
-Travaux pratiques réalisés dans le cadre de cours de programmation.
+Travaux pratiques réalisés dans le cadre d'un cours de programmation Java.
