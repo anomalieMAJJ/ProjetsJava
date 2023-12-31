@@ -1,12 +1,6 @@
 
 import java.util.*;
 /**
-    *  * @authors Jessica Majeur et Jessica Portillo
-    *  * Codes permanents : MAJJ 2651 9105 et PORJ 1656 8802
-    *  * Courriel : ge991970@ens.uqam.ca et portillo.jessica@courrier.uqam.ca
- *  * Cours : INF2120-20
-     *  * @version 2023-07-19
-    *
     * Cette classe permet de traduire le langage Thai en API.
     */
 public class Thai {
